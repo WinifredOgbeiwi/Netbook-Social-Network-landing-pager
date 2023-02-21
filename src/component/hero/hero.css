@@ -1,0 +1,79 @@
+.hero-nav {
+    height: 746px;
+    background: linear-gradient(311.76deg, #D4E7FE -15.24%, #FFFFFF 78.85%);
+        padding: 0 135px;
+}
+
+.hero-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.hero-left-section {
+    width: 515px;
+    height: 366px;
+}
+.hero-community-button{
+    width: 177px;
+        height: 36px;
+        background: rgba(33, 124, 244, 0.1);
+        border-radius: 8px;
+            font-weight: 500;
+            font-size: 12px;
+            line-height: 12px;
+        border: none;
+            text-align: center;
+            color: #217BF4;
+            margin-top: 20px;
+    
+            margin-bottom: 20px;
+}
+.hero-left-section h1{
+    width: 515px;
+        height: 132px;
+        font-weight: 700;
+        font-size: 56px;
+        line-height: 66px;
+        color: #0A093D;
+}
+.hero-left-section p{
+    width: 491px;
+        height: 56px;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 28px;
+        color: #656464;
+        margin: 18px 0 42px 0;
+}
+.hero-about-button{
+    width: 162px;
+        height: 62px;
+        background: #217BF4;
+        box-shadow: 0px 7px 22px -6px rgba(33, 123, 244, 0.34);
+        border-radius: 14px;
+        border: none;
+            font-weight: 400;
+            font-size: 14px;
+            line-height: 14px;
+            text-align: center;
+            color: #FFFFFF;
+}
+.hero-invite-button{
+    width: 167px;
+        height: 62px;
+        border: 1px solid rgba(33, 124, 244, 0.5);
+        border-radius: 14px;
+        margin-left: 18px;
+        background-color: transparent;
+            font-weight: 500;
+            font-size: 14px;
+            line-height: 14px;
+            text-align: center;  
+            color: #217BF4;
+}
+.hero-right-section{
+    width: 36.6rem;
+        height: 31.34rem;
+}
